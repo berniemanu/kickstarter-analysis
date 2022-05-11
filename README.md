@@ -32,7 +32,7 @@ I had encountered challenge in matching the Outcomes Based on Goal Chart exactly
 * Louise will have a high likelihood of a successful campaign if she targets to launch during May, June or July.
 
 ### Setting the right Goals
-* 48% of the projects had goals ranging from $1000-$4999. 
+* Over 50% of the projects had goals ranging from $1000-$4999. 
 * Projects with a goal below $5000 also enjoyed highest success rate averaging 74%. 
 * Despite fewer projects with goals ranging from $35,000 to $45,000, these projects enjoyed second higher success rate averaging 67%. This shows that donors are discriminating and are willing to back a really good project despite the high goals. 
 * That said, given Louise's goals, her likelihood of a successful campaign increases if it is <$5000.
@@ -53,7 +53,7 @@ I had encountered challenge in matching the Outcomes Based on Goal Chart exactly
 
 * US Theatre kickstarter campaigns with goals averaging $5K have been successful compared to campaigns with goals averaging $10K.
 
-* Edinburgh Frinch Festival analysis showed that campaigns with goals averaging $2K have been fully pledged with average donations ranging from $33-$51.
+* Edinburgh Fringe Festival analysis showed that campaigns with goals averaging $2K have been fully pledged with average donations ranging from $33-$51.
 
 * Overall 25% of the campaign have no backers. Median campaign goals have been around $2K.
 
